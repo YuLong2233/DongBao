@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="web" />
+        <module name="Yulong-dongbao-cart" />
+        <module name="Yulong-dongbao-cart-api" />
+        <module name="Yulong-dongbao-cms" />
+        <module name="Yulong-dongbao-cms-api" />
+        <module name="Yulong-dongbao-common-base" />
+        <module name="Yulong-dongbao-common-util" />
+        <module name="Yulong-dongbao-dictionary" />
+        <module name="Yulong-dongbao-dictionary-api" />
+        <module name="Yulong-dongbao-generator" />
+        <module name="Yulong-dongbao-job" />
+        <module name="Yulong-dongbao-oms" />
+        <module name="Yulong-dongbao-oms-api" />
+        <module name="Yulong-dongbao-pay" />
+        <module name="Yulong-dongbao-pay-api" />
+        <module name="Yulong-dongbao-pms" />
+        <module name="Yulong-dongbao-pms-api" />
+        <module name="Yulong-dongbao-sms" />
+        <module name="Yulong-dongbao-sms-api" />
+        <module name="Yulong-dongbao-ums" />
+        <module name="Yulong-dongbao-ums-api" />
+        <module name="Yulong.dongbao.portal.web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="portal.web" target="1.8" />
+      <module name="web" target="1.8" />
+      <module name="YuLong-dongbao-api" target="1.8" />
+      <module name="Yulong-dongbao-cart" target="1.8" />
+      <module name="Yulong-dongbao-cart-api" target="1.8" />
+      <module name="Yulong-dongbao-cms" target="1.8" />
+      <module name="Yulong-dongbao-cms-api" target="1.8" />
+      <module name="Yulong-dongbao-common" target="1.8" />
+      <module name="Yulong-dongbao-common-base" target="1.8" />
+      <module name="Yulong-dongbao-common-util" target="1.8" />
+      <module name="Yulong-dongbao-dictionary" target="1.8" />
+      <module name="Yulong-dongbao-dictionary-api" target="1.8" />
+      <module name="Yulong-dongbao-generator" target="1.8" />
+      <module name="Yulong-dongbao-job" target="1.8" />
+      <module name="Yulong-dongbao-oms" target="1.8" />
+      <module name="Yulong-dongbao-oms-api" target="1.8" />
+      <module name="Yulong-dongbao-pay" target="1.8" />
+      <module name="Yulong-dongbao-pay-api" target="1.8" />
+      <module name="Yulong-dongbao-pms" target="1.8" />
+      <module name="Yulong-dongbao-pms-api" target="1.8" />
+      <module name="Yulong-dongbao-service" target="1.8" />
+      <module name="Yulong-dongbao-sms" target="1.8" />
+      <module name="Yulong-dongbao-sms-api" target="1.8" />
+      <module name="Yulong-dongbao-ums" target="1.8" />
+      <module name="Yulong-dongbao-ums-api" target="1.8" />
+      <module name="YuLong.dongbao.mall.parent" target="1.8" />
+      <module name="Yulong.dongbao.portal.web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

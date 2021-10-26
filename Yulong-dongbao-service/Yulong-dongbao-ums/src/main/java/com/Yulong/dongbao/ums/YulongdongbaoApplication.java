@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Description: com.Yulong.Yulongdongbaoums
  */
 @SpringBootApplication
-@MapperScan("com.Yulong.dongbao.ums.mapper")
+@MapperScan("com.Yulong.dongbao.ums.mappers")
 public class YulongdongbaoApplication {
     public static void main(String[] args) {
             SpringApplication.run(YulongdongbaoApplication.class, args);

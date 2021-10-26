@@ -55,7 +55,7 @@ public class DongBaoGenerator {
 
         pc.setParent("com.Yulong.Yulongdongbaoums");
         pc.setEntity("entity");
-        pc.setMapper("mapper");
+        pc.setMapper("mappers");
         pc.setController("controller");
 
         mpg.setPackageInfo(pc);

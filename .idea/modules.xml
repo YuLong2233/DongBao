@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/YuLong-dongbao-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/YuLong-dongbao-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong.dongbao.mall.parent.iml" filepath="$PROJECT_DIR$/YuLong.dongbao.mall.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-cart/Yulong-dongbao-cart.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-cart/Yulong-dongbao-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-cart-api/Yulong-dongbao-cart-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-cart-api/Yulong-dongbao-cart-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-cms/Yulong-dongbao-cms.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-cms/Yulong-dongbao-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-cms-api/Yulong-dongbao-cms-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-cms-api/Yulong-dongbao-cms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-common/Yulong-dongbao-common.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-common/Yulong-dongbao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-common/Yulong-dongbao-common-base/Yulong-dongbao-common-base.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-common/Yulong-dongbao-common-base/Yulong-dongbao-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-common/Yulong-dongbao-common-util/Yulong-dongbao-common-util.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-common/Yulong-dongbao-common-util/Yulong-dongbao-common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-dictionary/Yulong-dongbao-dictionary.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-dictionary/Yulong-dongbao-dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-dictionary-api/Yulong-dongbao-dictionary-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-dictionary-api/Yulong-dongbao-dictionary-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-generator/Yulong-dongbao-generator.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-generator/Yulong-dongbao-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-job/Yulong-dongbao-job.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-job/Yulong-dongbao-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-oms/Yulong-dongbao-oms.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-oms/Yulong-dongbao-oms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-oms-api/Yulong-dongbao-oms-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-oms-api/Yulong-dongbao-oms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-pay/Yulong-dongbao-pay.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-pay/Yulong-dongbao-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-pay-api/Yulong-dongbao-pay-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-pay-api/Yulong-dongbao-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-pms/Yulong-dongbao-pms.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-pms/Yulong-dongbao-pms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-pms-api/Yulong-dongbao-pms-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-pms-api/Yulong-dongbao-pms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-service.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-sms/Yulong-dongbao-sms.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-sms/Yulong-dongbao-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-sms-api/Yulong-dongbao-sms-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-sms-api/Yulong-dongbao-sms-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-ums/Yulong-dongbao-ums.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-ums/Yulong-dongbao-ums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-ums-api/Yulong-dongbao-ums-api.iml" filepath="$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-ums-api/Yulong-dongbao-ums-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-application/YuLong-dongbao-portal-web/Yulong.dongbao.portal.web.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-application/YuLong-dongbao-portal-web/Yulong.dongbao.portal.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-application/portal.web.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-application/portal.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yulong-dongbao-application/web.iml" filepath="$PROJECT_DIR$/Yulong-dongbao-application/web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-cart-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-cms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-dictionary-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-oms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-pay-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-pms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-sms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/YuLong-dongbao-api/Yulong-dongbao-ums-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-application" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-application/YuLong-dongbao-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-common/Yulong-dongbao-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-common/Yulong-dongbao-common-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-dictionary" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-oms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-pms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Yulong-dongbao-service/Yulong-dongbao-ums" charset="UTF-8" />
+  </component>
+</project>
