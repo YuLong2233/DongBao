@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.Yulong</groupId>
+    <artifactId>Yulong-dongbao-service</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <!--订单中心模块实现-->
+        <module>Yulong-dongbao-oms</module>
+        <!--商品中心模块实现-->
+        <module>Yulong-dongbao-pms</module>
+        <!--用户中心模块实现-->
+        <module>Yulong-dongbao-ums</module>
+        <!--支付中心模块实现-->
+        <module>Yulong-dongbao-pay</module>
+        <!--购物车模块实现-->
+        <module>Yulong-dongbao-cart</module>
+        <!--基础字典模块实现-->
+        <module>Yulong-dongbao-dictionary</module>
+        <!--优惠中心模块实现-->
+        <module>Yulong-dongbao-sms</module>
+        <!--内容中心模块实现-->
+        <module>Yulong-dongbao-cms</module>
+        <module>Yulong-dongbao-cart</module>
+        <module>Yulong-dongbao-cms</module>
+        <module>Yulong-dongbao-dictionary</module>
+        <module>Yulong-dongbao-oms</module>
+        <module>Yulong-dongbao-pay</module>
+        <module>Yulong-dongbao-pms</module>
+        <module>Yulong-dongbao-sms</module>
+        <module>Yulong-dongbao-ums</module>
+    </modules>
+
+
+
+
+</project>
