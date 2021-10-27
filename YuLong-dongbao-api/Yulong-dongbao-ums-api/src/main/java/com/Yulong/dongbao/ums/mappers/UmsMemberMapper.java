@@ -3,6 +3,7 @@ package com.Yulong.dongbao.ums.mappers;
 import com.Yulong.dongbao.ums.entity.UmsMember;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import org.apache.ibatis.annotations.Mapper;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Repository;
 
 /**
@@ -17,4 +18,5 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface UmsMemberMapper extends BaseMapper<UmsMember> {
 
+    UmsMember selectByName(String name);
 }

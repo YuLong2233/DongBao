@@ -1,6 +1,7 @@
 package com.Yulong.dongbao.ums.service;
 
 import com.Yulong.dongbao.ums.entity.UmsMember;
+import com.Yulong.dongbao.ums.entity.dto.UmsMemberLoginParamDTO;
 import com.Yulong.dongbao.ums.entity.dto.UmsMemberRegisterParamDTO;
 import com.baomidou.mybatisplus.extension.service.IService;
 import org.springframework.stereotype.Service;
@@ -17,5 +18,6 @@ import org.springframework.stereotype.Service;
 
 public interface UmsMemberService extends IService<UmsMember> {
 
-    public String register(UmsMemberRegisterParamDTO umsMemberRegisterParamDTO);
+    String register(UmsMemberRegisterParamDTO umsMemberRegisterParamDTO);
+    String login(UmsMemberLoginParamDTO umsMemberLoginParamDTO);
 }
